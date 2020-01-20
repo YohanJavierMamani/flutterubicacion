@@ -1,0 +1,32 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "mapa",
+            "icon" : "folder_open",
+            "texto": "ubicación GPS"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "folder_open",
+            "texto": "Exportar e importar Información"
+        },
+        {
+            "ruta" : "codigos",
+            "icon" : "folder_open",
+            "texto": "Leer códigos"
+        }
+    ],
+    "rutas2" : [
+        {
+            "ruta" : "alert",
+            "icon" : "folder_open",
+            "texto": "Código QR"
+        },
+        {
+            "ruta" : "alert",
+            "icon" : "folder_open",
+            "texto": "Código de barras"
+        }
+    ]
+}
